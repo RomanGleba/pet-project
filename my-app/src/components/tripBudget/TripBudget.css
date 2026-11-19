@@ -1,0 +1,33 @@
+.trip-budget {
+    background-color: white;
+    width: 350px;
+    max-width: calc(100% - 60px);
+    margin: 80px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #444;
+}
+
+h3 {
+    color: #16a34a;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
